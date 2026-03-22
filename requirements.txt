@@ -1,0 +1,8 @@
+pymupdf
+pandas
+python-dotenv
+tqdm
+sentence-transformers
+faiss-cpu
+botocore
+streamlit
